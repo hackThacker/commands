@@ -1,9 +1,223 @@
-### Basic Commands:
+I apologize for the misunderstanding. Here are the Markdown files containing both Kali Linux and Windows commands, organized into basic, intermediate, advanced, and professional categories.
+
+### Kali Linux Commands:
+
+#### Basic Commands:
+
+1. **ls**
+   ```markdown
+   List files and directories in the current folder.
+   ```
+
+2. **cd**
+   ```markdown
+   Change current directory.
+   ```
+
+3. **pwd**
+   ```markdown
+   Print the current working directory.
+   ```
+
+4. **mkdir**
+   ```markdown
+   Create a new directory.
+   ```
+
+5. **cp**
+   ```markdown
+   Copy files or directories.
+   ```
+
+6. **mv**
+   ```markdown
+   Move or rename files and directories.
+   ```
+
+7. **rm**
+   ```markdown
+   Remove or delete files and directories.
+   ```
+
+8. **cat**
+   ```markdown
+   Display the contents of a file.
+   ```
+
+9. **echo**
+   ```markdown
+   Display text on the terminal.
+   ```
+
+10. **chmod**
+    ```markdown
+    Change file permissions.
+    ```
+
+#### Intermediate Commands:
+
+1. **ps**
+   ```markdown
+   Display information about active processes.
+   ```
+
+2. **top**
+   ```markdown
+   Display and update sorted information about processes.
+   ```
+
+3. **kill**
+   ```markdown
+   Terminate or send signals to processes.
+   ```
+
+4. **ifconfig**
+   ```markdown
+   Configure and display network interface parameters.
+   ```
+
+5. **ping**
+   ```markdown
+   Test network connectivity to a specific IP address.
+   ```
+
+6. **netstat**
+   ```markdown
+   Display network connections, routing tables, interface statistics.
+   ```
+
+7. **grep**
+   ```markdown
+   Search for a pattern in files.
+   ```
+
+8. **tar**
+   ```markdown
+   Create and extract tar archives.
+   ```
+
+9. **nano**
+   ```markdown
+   Text editor for the command line.
+   ```
+
+10. **wget**
+    ```markdown
+    Download files from the internet.
+    ```
+
+#### Advanced Commands:
+
+1. **nmap**
+   ```markdown
+   Network Mapper - scan and discover network hosts.
+   ```
+
+2. **airmon-ng**
+   ```markdown
+   Enable or disable monitor mode on wireless interfaces.
+   ```
+
+3. **arpspoof**
+   ```markdown
+   Spoof ARP replies to redirect traffic on a local network.
+   ```
+
+4. **wireshark**
+   ```markdown
+   Network protocol analyzer.
+   ```
+
+5. **john**
+   ```markdown
+   Password cracker.
+   ```
+
+6. **hydra**
+   ```markdown
+   Password brute-force tool.
+   ```
+
+7. **iptables**
+   ```markdown
+   Configure and manage IP packet filter rules.
+   ```
+
+8. **tcpdump**
+   ```markdown
+   Dump traffic on a network.
+   ```
+
+9. **metasploit**
+   ```markdown
+   Penetration testing framework.
+   ```
+
+10. **snort**
+    ```markdown
+    Network intrusion detection and prevention system.
+    ```
+
+#### Professional Commands:
+
+1. **gpg**
+   ```markdown
+   GNU Privacy Guard - encrypt and sign data.
+   ```
+
+2. **sqlmap**
+   ```markdown
+   Automated SQL injection and database takeover tool.
+   ```
+
+3. **aircrack-ng**
+   ```markdown
+   Wi-Fi security auditing suite.
+   ```
+
+4. **setoolkit**
+   ```markdown
+   Social Engineering Toolkit - manipulate people into performing actions.
+   ```
+
+5. **hashcat**
+   ```markdown
+   Advanced password recovery.
+   ```
+
+6. **volatility**
+   ```markdown
+   Memory forensics framework.
+   ```
+
+7. **docker**
+   ```markdown
+   Containerization platform.
+   ```
+
+8. **exploitdb**
+   ```markdown
+   Exploit database archive.
+   ```
+
+9. **autopsy**
+   ```markdown
+   Digital forensics platform.
+   ```
+
+10. **mitmproxy**
+    ```markdown
+    Man-in-the-middle proxy for HTTP and HTTPS.
+    ```
+
+### Windows Commands:
+
+#### Basic Commands:
 
 1. **cd**
    ```markdown
    Change current directory.
-   ```   
+   ```
 
 2. **dir**
    ```markdown
@@ -50,7 +264,7 @@
     Clear the console screen.
     ```
 
-### Intermediate Commands:
+#### Intermediate Commands:
 
 1. **tasklist**
    ```markdown
@@ -102,7 +316,7 @@
     Registry Editor - modify Windows Registry settings.
     ```
 
-### Advanced Commands:
+#### Advanced Commands:
 
 1. **gpupdate**
    ```markdown
@@ -154,9 +368,11 @@
     Deployment Image Service and Management Tool - service and repair Windows images.
     ```
 
-### Professional Commands:
+#### Professional Commands:
 
-1. **icacls**
+1. **ica
+
+cls**
    ```markdown
    Display or modify Access Control Lists (ACLs) for files and folders.
    ```
