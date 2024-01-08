@@ -1,58 +1,5 @@
 # Basic Commands
 
-1. `ls` (List): Lists files and directories in the current directory.
-2. `cd` (Change Directory): Changes the current working directory.
-3. `mkdir` (Make Directory): Creates a new directory.
-4. `rm` (Remove): Deletes files or directories.
-5. `cp` (Copy): Copies files or directories from one location to another.
-6. `mv` (Move): Moves or renames files and directories.
-7. `cat` (Concatenate): Displays the contents of a file.
-8. `pwd` (Print Working Directory): Shows the current working directory.
-9. `touch`: Creates an empty file.
-10. `echo`: Prints text to the terminal.
-
-# Intermediate Commands
-
-1. `grep` (Global Regular Expression Print): Searches for text patterns in files.
-2. `find`: Searches for files and directories in a directory hierarchy.
-3. `tar` (Tape Archive): Archives and compresses files and directories.
-4. `chmod` (Change Mode): Changes file permissions.
-5. `chown` (Change Owner): Changes file ownership.
-6. `ps` (Process Status): Lists running processes.
-7. `kill`: Sends signals to processes to terminate them.
-8. `ssh` (Secure Shell): Connects to remote servers securely.
-9. `scp` (Secure Copy): Copies files securely between local and remote systems.
-10. `curl` (Client for URLs): Downloads content from the internet.
-
-# Advanced Commands
-
-1. `sed` (Stream Editor): Processes and transforms text.
-2. `awk`: A versatile text processing tool.
-3. `rsync` (Remote Sync): Efficiently syncs files and directories.
-4. `nc` (Netcat): A networking utility for reading or writing to network connections.
-5. `iptables`: Configures firewall rules on Linux systems.
-6. `dd` (Data Duplicator): Copies and converts data at a low level.
-7. `lsof` (List Open Files): Lists open files and processes using them.
-8. `top` or `htop`: Real-time system monitoring tools.
-9. `cron` (Cron Jobs): Schedules automated tasks.
-10. `grep` (with regular expressions): Advanced text searching and manipulation.
-
-# Professional Commands
-
-1. `strace` (System Trace): Monitors system calls and signals.
-2. `tcpdump`: Captures and analyzes network packets.
-3. `vmstat` (Virtual Memory Statistics): Provides system performance data.
-4. `sar` (System Activity Reporter): Collects and reports system data.
-5. `lvm` (Logical Volume Manager): Manages disk volumes and storage.
-6. `rsyslog` or `syslog-ng`: Advanced system logging and event management.
-7. `iptables` (with complex rules): Advanced firewall configuration.
-8. `openssl`: Performs various cryptographic operations.
-9. `ncdu` (NCurses Disk Usage): Analyzes disk space usage.
-10. `dstat` (Resource Usage Statistics): Collects and displays system resource usage in real-time.
-
-
-# Basic Commands
-
 ## File and Directory Management
 
 1. `ls` (List):
@@ -95,7 +42,7 @@
     - **Description:** Prints text to the terminal.
     - **Usage:** `echo "Hello, World!"` to print "Hello, World!" to the terminal.
 
-## Intermediate Commands
+# Intermediate Commands
 
 ## Text Processing and File Search
 
