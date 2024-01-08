@@ -1,4 +1,8 @@
-I apologize for the misunderstanding. Here are the Markdown files containing both Kali Linux and Windows commands, organized into basic, intermediate, advanced, and professional categories.
+
+# Commands of kali linux and windows 🧰
+
+- [Kali Linux Commands](#Kali-Linux-Commands)
+- [Windows Commands](#Windows-Commands)
 
 ### Kali Linux Commands:
 
