@@ -28,21 +28,6 @@
    Create a new directory.
    ```
 
-## Create Directory Structure for Nepal
-
-The following command creates a directory structure for Nepal, including provinces and wards. Each province has a unique number (1 to 7), and within province 3, there are 19 wards.
-
-```
-mkdir -p nepal && cd nepal && for i in {1..7}; do mkdir -p "province$i"; done && mkdir -p province3 && cd province3 && for j in {1..19}; do mkdir -p "ward$j"; done
-```
-
-- `mkdir -p nepal`: Creates the main "nepal" directory.
-- `cd nepal`: Changes into the "nepal" directory.
-- `for i in {1..7}; do mkdir -p "province$i"; done`: Uses a loop to create directories "province1" through "province7."
-- `mkdir -p province3 && cd province3 && for j in {1..19}; do mkdir -p "ward$j"; done`: Creates "province3," changes into it, and uses a loop to create "ward1" through "ward19" within "province3."
-
-```
-
 5. **cp**
    ```markdown
    Copy files or directories.
